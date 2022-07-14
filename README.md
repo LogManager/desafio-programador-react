@@ -20,8 +20,10 @@ Obs 2: não esqueça de criar um README.md explicando oque precisamos fazer para
 
 Obs 3: não se preocupe em fazer um front-end bonito.
 
-## Links Úteis
+## Obeservações
 
+- Não é obrigatório escrever os testes, mas vai ser um diferencial se tiver.
+- Não é obrigatório ter um controle de acesso ( tela de login e senha ), mas vai ser um diferencial se tiver.
 - URL de etiquetas de exemplo: https://ibb.co/xgV5gzq ( pode bipar várias vezes a mesma etiqueta para enviar )
 - URL da API de envio de dados: Crie uma URL qualquer do https://webhook.site/ para enviar os dados.
 

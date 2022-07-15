@@ -32,6 +32,7 @@ Crie uma URL qualquer do https://webhook.site/ e envie todos os dados coletados 
 Vamos testar seu aplicativo em dois cenários: 
 
 1 - Conectado a internet; 
+
 2 - Sem conexão à internet.
 
 No cenário 2 seu aplicativo precisa enviar os dados para URL criada quando voltar a conexão com a internet. 
@@ -49,8 +50,11 @@ A partir do recebimento das instruções, você terá 3 dias para realizar o tes
 ### Obs
 
 1 - Não esqueça de criar um README.md explicando o que precisamos fazer para compilar a sua aplicação.
+
 2 - Não se preocupe em fazer um front-end bonito.
+
 3 - Não é obrigatório escrever os testes, mas vai ser um diferencial se tiver.
+
 
 ## No mais...
 
